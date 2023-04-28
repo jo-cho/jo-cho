@@ -1,3 +1,3 @@
-I studied AI finance and worked as an AI trading researcher.
+I studied AI finance and economics.
 
-[한국어 Fin 블로그](https://jo-cho.github.io/FinBlog/)
+[한국어 공부 블로그](https://jo-cho.github.io/FinBlog/)
