@@ -1,7 +1,7 @@
 I studied AI finance and economics.
 
 ---
-[About Me](https://jo-cho.github.io/)
+[Cheonghyo Cho](https://jo-cho.github.io/)
 
 [한국어 금융/경제 블로그](https://jo-cho.github.io/FinBlog/)
 
